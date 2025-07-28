@@ -1,0 +1,11 @@
+.vscode
+./package-lock.json
+/node_modules/
+./invoke-debug.js
+./invoke-ingest.js
+.env
+/supabase/.branches
+/supabase/.temp
+/supabase/config.toml
+/frontend/node_modules/
+/frontend/package-lock.json
