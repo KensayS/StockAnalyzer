@@ -32,3 +32,5 @@ GOOG, AAPL, AMZN, MSFT, TSLA, NVDA, META, BRK-B, SPY, VOO, QQQ, VTI, IVV
 - `/rag-analysis` - Main analysis endpoint  
 - `/vector-search` - Semantic search  
 - **React UI** - Stock selector & results display
+
+![System Design](stock-analyzer diagram.png)
